@@ -8,7 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.7.3"
+    "nuxt": "3.8.0",
+    "vite": "^4.0.0"
   },
   "dependencies": {
     "nuxt-security": "^1.0.0-rc.2"
