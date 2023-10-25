@@ -1,6 +1,6 @@
 {
   "name": "@mangadex-pub/nuxt-security",
-  "version": "1.0.0-rc.2+mangadex",
+  "version": "1.0.0-rc.2+mangadex-1",
   "license": "MIT",
   "type": "module",
   "homepage": "https://nuxt-security.vercel.app",
@@ -69,7 +69,7 @@
     "nuxt": "^3.8.0",
     "typescript": "5.2.2",
     "vite": "^4.0.0",
-    "vitest": "^0.34.6",
+    "vitest": "^0.33.0",
     "vue": "^3.3.7"
   },
   "stackblitz": {
