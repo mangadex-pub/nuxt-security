@@ -1,12 +1,12 @@
 {
-  "name": "nuxt-security",
-  "version": "1.0.0-rc.2",
+  "name": "@mangadex-pub/nuxt-security",
+  "version": "1.0.0-rc.2+mangadex",
   "license": "MIT",
   "type": "module",
   "homepage": "https://nuxt-security.vercel.app",
   "description": "🛡️ Security Module for Nuxt based on HTTP Headers and Middleware",
   "repository": {
-    "url": "https://github.com/Baroshem/nuxt-security"
+    "url": "https://github.com/mangadex-pub/nuxt-security"
   },
   "keywords": [
     "nuxt",
